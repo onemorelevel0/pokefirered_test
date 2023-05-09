@@ -103,16 +103,15 @@
 #define TYPE_BUG            6
 #define TYPE_GHOST          7
 #define TYPE_STEEL          8
-#define TYPE_MYSTERY        9
-#define TYPE_FIRE           10
-#define TYPE_WATER          11
-#define TYPE_GRASS          12
-#define TYPE_ELECTRIC       13
-#define TYPE_PSYCHIC        14
-#define TYPE_ICE            15
-#define TYPE_DRAGON         16
-#define TYPE_DARK           17
-#define NUMBER_OF_MON_TYPES 18
+#define TYPE_FIRE           9
+#define TYPE_WATER          10
+#define TYPE_GRASS          11
+#define TYPE_ELECTRIC       12
+#define TYPE_PSYCHIC        13
+#define TYPE_ICE            14
+#define TYPE_DRAGON         15
+#define TYPE_DARK           16
+#define NUMBER_OF_MON_TYPES 17
 
 // Pokemon egg groups
 #define EGG_GROUP_NONE         0
