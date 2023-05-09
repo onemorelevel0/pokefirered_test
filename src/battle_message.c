@@ -1384,7 +1384,6 @@ static const u8 *const sATypeMove_Table[NUMBER_OF_MON_TYPES] =
     [TYPE_BUG]      = gText_ABugMove,
     [TYPE_GHOST]    = gText_AGhostMove,
     [TYPE_STEEL]    = gText_ASteelMove,
-    [TYPE_MYSTERY]  = gText_AMysteryMove,
     [TYPE_FIRE]     = gText_AFireMove,
     [TYPE_WATER]    = gText_AWaterMove,
     [TYPE_GRASS]    = gText_AGrassMove,
